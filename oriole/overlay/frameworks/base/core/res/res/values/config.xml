@@ -311,4 +311,8 @@
          Note: This should be only enabled on devices with high confidence on power measurement.
     -->
     <bool name="config_bg_current_drain_auto_restrict_abusive_apps">true</bool>
+
+	<string-array name="config_locationExtraPackageNames" translatable="false">
+        <item>com.shannon.imsservice</item>
+    </string-array>
 </resources>
