@@ -21,6 +21,11 @@ PRODUCT_COPY_FILES += \
 # Properties
 TARGET_VENDOR_PROP := device/google/raviole/vendor.prop
 
+# Soong Namespaces
+PRODUCT_SOONG_NAMESPACES += \
+    system/bt/conf \
+    packages/modules/Bluetooth/android/app
+
 # Telephony
 PRODUCT_PACKAGES += \
     ImsServiceEntitlement \
