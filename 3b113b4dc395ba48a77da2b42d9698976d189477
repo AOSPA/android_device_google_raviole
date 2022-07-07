@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e09614d0_342274bd",
+        "filename": "vendor.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2022-07-07T07:30:30Z",
+      "side": 1,
+      "message": "https://gitlab.com/ThankYouMario/android_vendor_google_gms/-/blob/sapphire/config.mk#L34",
+      "revId": "3b113b4dc395ba48a77da2b42d9698976d189477",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
