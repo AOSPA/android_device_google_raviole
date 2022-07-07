@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f4bc6c0_74a31d01",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2022-07-07T07:28:00Z",
+      "side": 1,
+      "message": "21465: Set Multi-Gen LRU enabled based on experiment prop | https://gerrit.aospa.co/c/AOSPA/android_system_core/+/21465",
+      "revId": "1ff707f1e2881c06be7d34def23f2055be10e5d8",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
