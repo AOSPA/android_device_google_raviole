@@ -16,6 +16,24 @@
       "message": "automatically included with google modules, unless camera hal fails to work non-updatable + not flattened?",
       "revId": "a59c3de6922cc4f1afc79ce857d91caaa17bc4ad",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "27fdbb73_df0164a0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000427
+      },
+      "writtenOn": "2022-07-08T20:00:13Z",
+      "side": 1,
+      "message": "correct, cannot flatten or camera does not work",
+      "parentUuid": "889e4546_7a576d78",
+      "revId": "a59c3de6922cc4f1afc79ce857d91caaa17bc4ad",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
