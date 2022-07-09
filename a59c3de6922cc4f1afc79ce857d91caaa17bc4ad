@@ -34,6 +34,24 @@
       "parentUuid": "889e4546_7a576d78",
       "revId": "a59c3de6922cc4f1afc79ce857d91caaa17bc4ad",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4e455918_d9c5de34",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2022-07-09T03:11:40Z",
+      "side": 1,
+      "message": "but it isnt flattened by default",
+      "parentUuid": "27fdbb73_df0164a0",
+      "revId": "a59c3de6922cc4f1afc79ce857d91caaa17bc4ad",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
