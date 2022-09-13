@@ -252,8 +252,6 @@ product/priv-app/CarrierWifi/CarrierWifi.apk
 product/priv-app/CbrsNetworkMonitor/CbrsNetworkMonitor.apk
 product/priv-app/ConnMO/ConnMO.apk
 product/priv-app/DCMO/DCMO.apk
-product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk;PRESIGNED
-product/priv-app/DevicePersonalizationPrebuiltPixel2021/DevicePersonalizationPrebuiltPixel2021.apk;PRESIGNED
 product/priv-app/DiagMon/DiagMon.apk
 product/priv-app/DMService/DMService.apk
 product/priv-app/DMService/lib/arm/libdmengine.so
